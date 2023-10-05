@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -e "test" ]; then
     rm test
 fi
